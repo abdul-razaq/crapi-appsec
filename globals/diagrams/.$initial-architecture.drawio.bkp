@@ -1,0 +1,52 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="9pC_CMKfj1GWBRHgH13X">
+    <mxGraphModel dx="2923" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-12" edge="1" parent="1" source="wc0j2Ucny6m3VQ4M08qT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wc0j2Ucny6m3VQ4M08qT-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-610" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-19" connectable="0" parent="wc0j2Ucny6m3VQ4M08qT-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;h3&gt;&lt;font face=&quot;Tahoma&quot;&gt;DF-01&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1556" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-7" parent="1" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" value="&lt;h6&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/h6&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;u&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(255, 51, 51), rgb(255, 119, 119));&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;EXTERNAL ENVIRONMENT - TB-01&lt;/font&gt;&lt;/u&gt;&lt;/h4&gt;&lt;/u&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="320" width="290" x="-1085" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;WEB INGRESS SERVICE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="-1040" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;IDENTITY SERVICE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="-440" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;VEHICLE WORKSHOP SERVICE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="-440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;COMMUNITY SERVICE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="-440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-9" parent="1" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;u&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(255, 51, 51), rgb(255, 119, 119));&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;INTERNAL ENVIRONMENT - TB-02&lt;/font&gt;&lt;/u&gt;&lt;/h4&gt;&lt;/u&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="560" width="280" x="-480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-10" parent="1" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;u&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(255, 51, 51), rgb(255, 119, 119));&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;EXTERNAL ENVIRONMENT - TB-01&lt;/font&gt;&lt;/u&gt;&lt;/h4&gt;&lt;/u&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="560" width="290" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-20" edge="1" parent="1" source="wc0j2Ucny6m3VQ4M08qT-9" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=0;exitY=0.641;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="wc0j2Ucny6m3VQ4M08qT-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-780" y="500" as="sourcePoint" />
+            <mxPoint x="-730" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wc0j2Ucny6m3VQ4M08qT-23" connectable="0" parent="wc0j2Ucny6m3VQ4M08qT-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;DF-02&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.035" y="4" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

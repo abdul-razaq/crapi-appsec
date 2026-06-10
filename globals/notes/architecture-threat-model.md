@@ -1,0 +1,1 @@
+After understanding the architecture of the application at the conceptual level and its services, It is time for me to draw out the data flow diagram according to the initial architecture and add trust boundaries, data flow and threat model the diagram. Here, I will draw out the components, data flows etc.
