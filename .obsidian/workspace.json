@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc6543c3f05c776",
+        "id": "3f5258c0df120ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c7a0f3f66e07ee",
+            "id": "a0d1c61105a12411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "a7c53d1324e5a60e",
@@ -192,13 +192,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2c7a0f3f66e07ee",
+  "active": "a0d1c61105a12411",
   "lastOpenFiles": [
-    "globals/notes/architecture-raw-thought-log.md",
+    "globals/notes/architecture-understanding-worklog.md",
     "globals/notes/architecture-threat-model.md",
+    "globals/diagrams/updated-architecture.png",
+    "globals/diagrams/initial-architecture.png",
     "Untitled.canvas",
     "!architecture-threat-model.md",
-    "globals/diagrams/Pasted image 20260611193222.png",
     "Pasted image 20260611192740.png",
     "globals/diagrams/initial-architecture.drawio",
     "web-ingress-service/threat-model.md",
